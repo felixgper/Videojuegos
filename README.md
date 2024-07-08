@@ -26,7 +26,7 @@ Dicho esto, se planteó las siguientes preguntas a ser resueltas:
 Con estas preguntas y el conocimiento que tenemos, buscaremos un mejor uso de información, este proyecto está dirigido a las distintas personas que deseen aprender técnica de análisis de datos y modelo predictivo.
 
 
-## 📈 Modelos a utilizar para predecir si un prodcuto fue exitoso o no
+## 📈 Modelos a utilizar para predecir si un producto fue exitoso o no
 
 Para poder usar un modelo de aprendizaje, lo primero que se realizó fue una pregunta: ¿Que es lo que queremos predecir?
 Se nos venia a la mente, las ventas a futuro, que plataformas seguiran siendo rentables, el exito de un videojuego. Siendo ganandor este último y para ello se escogieron los siguientes modelos que son los mas adecuados para este tipo de problemas:
